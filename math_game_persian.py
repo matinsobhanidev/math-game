@@ -26,17 +26,17 @@ def creatq():
     max2=max2.strip()
     ty=grrr.get()
     if min1=="":
-        showq.config(text="min را مشخص نکرده اید")
+        showq.config(text="حداقل را مشخص نکرده اید")
     elif max2=="":
-        showq.config(text="max را مشخص نکرده اید")
+        showq.config(text="حداکثر را مشخص نکرده اید")
 
     elif min1.isdigit()==False:
-        showq.config(text="min باید عدد باشد")
+        showq.config(text="حداقل باید عدد باشد")
 
     elif max2.isdigit()==False:
-        showq.config(text="max باید عدد باشد")
+        showq.config(text="حداکثر باید عدد باشد")
     elif int(min1)>=int(max2):
-        showq.config(text="باید minimum از maximum کوچکتر باشد")
+        showq.config(text="باید حداقل از حداکثر کوچکتر باشد")
     else:    
         rand1 = random.randint(int(min1),int(max2))
         rand2 = random.randint(int(min1),int(max2))
