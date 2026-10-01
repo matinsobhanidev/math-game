@@ -496,7 +496,7 @@ def quez():
 window = Tk()
 
 window.title("Math Game")
-window.geometry("400x600")
+window.geometry("400x700")
 window.configure(bg="#121212")
 
 frame = Frame(
