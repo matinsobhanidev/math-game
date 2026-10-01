@@ -42,10 +42,12 @@ This repository preserves an early version of my work. Improvements may be added
 
 <p align="center">
   <img src="screenshots/english1.png" width="45%">
-  <img src="screenshots/persian1.png" width="45%">
+  <img src="screenshots/english2.png" width="45%">
 </p>
 
 ### Persian Version
 
-![Math Game Persian](screenshots/pesian1.png)
-![Math Game Persian](screenshots/persian2.png)
+<p align="center">
+  <img src="screenshots/persian1.png" width="45%">
+  <img src="screenshots/persian2.png" width="45%">
+</p>
