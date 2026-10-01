@@ -32,7 +32,8 @@ python math_game.py
 - Add a high-score system
 
 ## Note
-This repository preserves an early version of my work. Improvements may be added as I continue learning Python.
+This project was created around four years ago as one of my early Python projects. It is preserved here as a part of my programming journey.
+
 
 ## Screenshots
 
