@@ -38,8 +38,10 @@ This repository preserves an early version of my work. Improvements may be added
 
 ### English Version
 
-![Math Game English](screenshots/1.png)
+![Math Game English](screenshots/english1.png)
+![Math Game English](screenshots/english2.png)
 
 ### Persian Version
 
-![Math Game Persian](screenshots/2.png)
+![Math Game Persian](screenshots/pesian1.png)
+![Math Game Persian](screenshots/persian2.png)
