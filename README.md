@@ -33,3 +33,13 @@ python math_game.py
 
 ## Note
 This repository preserves an early version of my work. Improvements may be added as I continue learning Python.
+
+## Screenshots
+
+### English Version
+
+![Math Game English](screenshots/1.png)
+
+### Persian Version
+
+![Math Game Persian](screenshots/2.png)
